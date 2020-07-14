@@ -1,0 +1,10 @@
+appdirs==1.4.3
+arrow==0.15.5
+chardet==3.0.4
+DateTime==4.3
+prettytable==0.7.2
+PTable==0.9.2
+
+# Editable install with no version control (bookkeeping==0.0.0)
+-e c:\users\mikhail\desktop\bookkeeping
+
